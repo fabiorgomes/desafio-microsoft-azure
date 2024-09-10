@@ -1,2 +1,2 @@
 # desafio-microsoft-azure
-Desafios do Microsoft Azure
+Repositorio para armazenar os desafios do Microsoft Azure
