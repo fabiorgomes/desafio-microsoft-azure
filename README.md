@@ -1,5 +1,4 @@
 # desafio-microsoft-azure
-Repositorio para armazenar os desafios do Microsoft Azure
 
 Para localizar e explorar os serviços do Microsoft Azure por categoria, você pode acessar a [página de produtos do Azure](https://azure.microsoft.com/pt-br/products/category) que organiza os serviços em várias categorias. 
 
