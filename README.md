@@ -36,4 +36,4 @@ Para localizar e explorar os serviços do Microsoft Azure por categoria, você p
    - **Azure Active Directory**: Gerenciamento de identidades e acessos.
    - **Key Vault**: Gerenciamento de chaves e segredos.
 
-Essas categorias ajudam a organizar os serviços do Azure de forma que você possa encontrar facilmente o que precisa para o seu projeto. 
+Categorias que ajudam a organizar os serviços do Azure. 
