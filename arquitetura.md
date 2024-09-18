@@ -32,8 +32,8 @@ Uma Rede Virtual (VNet) fornece isolamento e conectividade para suas máquinas v
 - **Localização**: Escolha a região onde a rede virtual será criada.
 
 #### Configurar as Configurações de IP:
-- **Espaço de Endereços IP**: Insira o intervalo de endereços IP em formato CIDR (por exemplo, 10.0.0.0/16).
-- **Sub-redes**: Clique em **“Adicionar uma sub-rede”** para definir uma sub-rede. Preencha o nome da sub-rede e o intervalo de endereços IP para a sub-rede (por exemplo, 10.0.1.0/24).
+- **Espaço de Endereços IP**: Insira o intervalo de endereços IP em formato CIDR.
+- **Sub-redes**: Clique em **“Adicionar uma sub-rede”** para definir uma sub-rede. Preencha o nome da sub-rede e o intervalo de endereços IP para a sub-rede.
 
 #### Configurações Adicionais (opcional):
 - Configure recursos adicionais como gateways VPN ou conectividade ExpressRoute, se necessário.
