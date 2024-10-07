@@ -1,12 +1,14 @@
 ## Otimizando Custos no Azure com a Calculadora de TCO ##
-Passo 1: Acessar a Calculadora de TCO
+## Passo 1: Acessar a Calculadora de TCO
+
 Acessar o Portal do Azure
 
 Acesse portal.azure.com e faça login com suas credenciais.
 Navegar para a Calculadora de TCO
 
 No portal do Azure, você pode acessar diretamente a Calculadora de TCO por meio do link ou buscar por "TCO Calculator" na barra de pesquisa do portal.
-Passo 2: Configurar as Opções de Cálculo
+
+## Passo 2: Configurar as Opções de Cálculo
 Escolher o Tipo de Implantação
 
 Selecione o tipo de implantação que deseja avaliar, seja uma implantação local, uma implantação no Azure ou uma combinação de ambos.
@@ -25,7 +27,8 @@ Definir Dados de Utilização
 Para cada recurso que você adicionou, insira dados sobre a utilização prevista, como:
 Horas de Funcionamento: Horas por mês em que o recurso estará ativo.
 Consumo de Recursos: Detalhes sobre o consumo esperado de CPU, memória, e armazenamento.
-Passo 3: Analisar os Resultados
+
+## Passo 3: Analisar os Resultados
 Gerar o Relatório
 
 Após inserir todas as informações, clique em "Calculate" para gerar o relatório de TCO. Isso mostrará uma comparação entre os custos da infraestrutura local e os custos de usar os serviços do Azure.
@@ -39,7 +42,8 @@ Identificar Oportunidades de Economia
 Analise as áreas onde os custos podem ser reduzidos. O relatório pode revelar:
 Áreas de Alta Custo: Recursos que são mais caros no Azure do que em uma solução local.
 Economias Potenciais: Onde a nuvem pode oferecer economias significativas, como menor custo de hardware e energia.
-Passo 4: Implementar Estratégias de Otimização
+
+## Passo 4: Implementar Estratégias de Otimização
 Redimensionar Recursos
 
 Com base na análise, considere ajustar o tamanho e o número de recursos no Azure para se alinhar com as suas necessidades reais e otimizar o custo.
@@ -52,7 +56,8 @@ Utilize serviços que são mais eficientes e econômicos, como o uso de Serviço
 Configurar Alertas e Orçamentos
 
 No portal do Azure, configure alertas de custo e orçamentos para monitorar e controlar os gastos em tempo real.
-Passo 5: Revisar e Atualizar Regularmente
+
+## Passo 5: Revisar e Atualizar Regularmente
 Monitorar o Uso e os Custos
 
 Revise regularmente os relatórios de custo e uso no portal do Azure para garantir que você está dentro do orçamento e aproveitando ao máximo as oportunidades de economia.
