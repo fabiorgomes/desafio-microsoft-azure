@@ -1,4 +1,4 @@
-Otimizando Custos no Azure com a Calculadora de TCO
+## Otimizando Custos no Azure com a Calculadora de TCO ##
 Passo 1: Acessar a Calculadora de TCO
 Acessar o Portal do Azure
 
