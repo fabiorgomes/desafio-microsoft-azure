@@ -35,12 +35,7 @@ Criar um Arquivo Bicep
 
 No Cloud Shell, crie um arquivo Bicep usando um editor de texto:
 nano main.bicep
-Adicione o código Bicep. Exemplo para criar um grupo de recursos:
-resource myResourceGroup 'Microsoft.Resources/resourceGroups@2021-04-01' = {
-  name: 'myResourceGroup'
-  location: 'EastUS'
-}
-Salve o arquivo e saia do editor.
+Adicione o código Bicep. 
 Implantar o Arquivo Bicep
 
 Execute o comando abaixo para implantar o template Bicep:
