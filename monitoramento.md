@@ -98,28 +98,3 @@
 
 1. Utilize as ferramentas de monitoramento do Azure para combinar dados de diferentes fontes e obter insights abrangentes sobre a saúde e o desempenho de seus recursos.
 
----
-
-Se precisar de mais alguma atualização ou tiver outras informações para incluir, estou aqui para ajudar! 😊
-
-¹: [Azure Monitor Overview](https://learn.microsoft.com/pt-br/azure/azure-monitor/overview)
-²: [Service Health Overview](https://learn.microsoft.com/pt-br/azure/service-health/service-health-overview)
-³: [Azure Advisor Overview](https://learn.microsoft.com/pt-br/azure/advisor/advisor-overview)
-
-Fonte: conversa com o Copilot, 08/10/2024
-(1) Azure Monitor - Ferramentas de Observabilidade Modernas | Microsoft Azure. https://azure.microsoft.com/pt-br/products/monitor/.
-(2) Azure Monitor overview - Azure Monitor | Microsoft Learn. https://learn.microsoft.com/pt-br/azure/azure-monitor/overview.
-(3) Entenda aqui como funciona o Azure Monitor - OpServices. https://bing.com/search?q=Monitoramento+Inteligente+no+Azure.
-(4) Application Insights – Microsoft Azure Experts. https://www.azureexperts.com.br/application-insights/.
-(5) Entenda aqui como funciona o Azure Monitor - OpServices. https://www.opservices.com.br/azure-monitor/.
-(6) Monitoramento e relatórios no Azure - Cloud Adoption Framework. https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-setup-guide/monitoring-reporting.
-(7) Azure Monitor overview - Azure Monitor | Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/overview.
-(8) Azure Monitor documentation - Azure Monitor | Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/.
-(9) Application Insights overview - Azure Monitor | Microsoft Learn. https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview.
-(10) Application Insights Overview dashboard - Azure Monitor. https://learn.microsoft.com/en-us/azure/azure-monitor/app/overview-dashboard.
-(11) Application Insights for ASP.NET Core applications. https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core.
-(12) CONHEÇA O MICROSOFT AZURE MONITOR. https://www.youtube.com/watch?v=cvVbUjEHUOE.
-(13) What is Azure Monitor?. https://www.youtube.com/watch?v=eSutaPE80PM.
-(14) Complete Azure Monitor explained with overview in 20 Minutes. https://www.youtube.com/watch?v=9rqyH36R_XI.
-(15) Entenda aqui como funciona o Azure Monitor - OpServices. https://bing.com/search?q=Entenda+aqui+como+funciona+o+Azure+Monitor+-+OpServices.
-(16) undefined. https://www.phsbrasil.com.br.
